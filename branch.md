@@ -53,7 +53,26 @@ git branch 				          // 브런치 확인
 git checkout 브런치명 			   // 해당 브런치로 이동, 코드도 바뀜
 git branch -d folder/04_example	  // 브런치 삭제
 ```
-
-
-
 참고 : https://trustyoo86.github.io/git/2017/11/28/git-remote-branch-create.html
+
+
+SourceTree remote push 시 "Authentication failed for" 발생 조치법
+
+```
+1. 비밀번호 삭제
+- Win
+   C:\Users\USERNAME\AppData\Local\Atlassian\SourceTree\passwd 삭제.
+- Mac
+   Keychain Access 실행.
+   code.bespinglobal.com 이라는 이름을 가진 로그인 키체인 삭제.
+```
+
+
+
+출처 :
+
+https://2dubbing.tistory.com/49
+
+https://space.bespinglobal.com/pages/viewpage.action?pageId=24906629
+
+
