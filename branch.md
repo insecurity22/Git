@@ -55,6 +55,7 @@ git branch -d folder/04_example	  // 브런치 삭제
 ```
 참고 : https://trustyoo86.github.io/git/2017/11/28/git-remote-branch-create.html
 
+---------------------------------------------------------------------------------------------
 
 SourceTree remote push 시 "Authentication failed for" 발생 조치법
 
