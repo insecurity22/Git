@@ -19,7 +19,6 @@ ex) 04_Q - 새 브런치로 가지치기
 git push origin folder/04_example
 ```
 
-- local과 저장소의 remote branch가 생성됨
 
 
 
