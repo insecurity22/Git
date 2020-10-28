@@ -1,4 +1,4 @@
-1. 새 브런치 만들기
+#####1. 새 브런치 만들기
 
 ```
 명령어
@@ -12,7 +12,7 @@ ex) 04_Q - 새 브런치로 가지치기
 
 
 
-2. local과 저장소의 remote branch 생성
+#####2. local과 저장소의 remote branch 생성
 
 ```
 # VSCode terminal
@@ -23,7 +23,7 @@ git push origin folder/04_example
 
 
 
-3. branch 연동
+#####3. branch 연동
 
 ```
 git push origin folder/04_example
@@ -33,7 +33,7 @@ git branch --set-upstream-to folder/04_example
 
 ---------------------------------------------------------------------------------------------
 
-4. sourcetree
+#####4. sourcetree
 
 ```
 1) 왼쪽 workspace
