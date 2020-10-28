@@ -1,10 +1,13 @@
 1. 새 브런치 만들기
 
 ```
+명령어
 git branch folder/04_example (local에만 만들어짐)
-```
 
-​		- 여기서 작업 다하고
+또는 sourcetree의 
+ex) 04_Q - 새 브런치로 가지치기
+( 현재 04_Q 받아와서 거기서부터 가지치기 )
+```
 
 
 
@@ -16,7 +19,7 @@ git branch folder/04_example (local에만 만들어짐)
 git push origin folder/04_example
 ```
 
-​		- local과 저장소의 remote branch가 생성됨
+- local과 저장소의 remote branch가 생성됨
 
 
 
