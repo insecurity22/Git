@@ -53,9 +53,9 @@ git branch --set-upstream-to folder/04_example
 추가적으로. 브런치 명령어
 
 ```
-git branch 				          // 브런치 확인
-git checkout 브런치명 			   // 해당 브런치로 이동, 코드도 바뀜
-git branch -d folder/04_example	  // 브런치 삭제
+git branch // 브런치 확인
+git checkout 브런치명 // 해당 브런치로 이동, 코드도 바뀜
+git branch -d folder/04_example // 브런치 삭제
 ```
 
 참고 : https://trustyoo86.github.io/git/2017/11/28/git-remote-branch-create.html
