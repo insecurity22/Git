@@ -4,7 +4,7 @@
 git branch folder/04_example (local에만 만들어짐)
 ```
 
-- 여기서 작업 다하고
+​		- 여기서 작업 다하고
 
 
 
@@ -16,7 +16,7 @@ git branch folder/04_example (local에만 만들어짐)
 git push origin folder/04_example
 ```
 
-- local과 저장소의 remote branch가 생성됨
+​		- local과 저장소의 remote branch가 생성됨
 
 
 
@@ -56,6 +56,7 @@ git branch 				          // 브런치 확인
 git checkout 브런치명 			   // 해당 브런치로 이동, 코드도 바뀜
 git branch -d folder/04_example	  // 브런치 삭제
 ```
+
 참고 : https://trustyoo86.github.io/git/2017/11/28/git-remote-branch-create.html
 
 ---------------------------------------------------------------------------------------------
@@ -78,5 +79,3 @@ SourceTree remote push 시 "Authentication failed for" 발생 조치법
 https://2dubbing.tistory.com/49
 
 https://space.bespinglobal.com/pages/viewpage.action?pageId=24906629
-
-
