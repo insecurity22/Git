@@ -8,6 +8,7 @@ git branch folder/04_example (local에만 만들어짐)
 
 
 
+
 2. local과 저장소의 remote branch 생성
 
 ```
@@ -16,6 +17,7 @@ git push origin folder/04_example
 ```
 
 - local과 저장소의 remote branch가 생성됨
+
 
 
 
