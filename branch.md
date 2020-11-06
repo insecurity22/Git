@@ -24,7 +24,7 @@ git push origin folder/04_example
 
 
 
-##### 3. branch 연동
+##### 2-1. 또는 branch 연동
 
 ```
 git branch --set-upstream-to folder/04_example 
